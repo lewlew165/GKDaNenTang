@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "147719251638",
+    "project_id": "app-admin-flutter",
+    "storage_bucket": "app-admin-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147719251638:android:39fc386e99e6db89646817",
+        "android_client_info": {
+          "package_name": "com.example.admin_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6TEsm8ak7RPwE88bee_UUTT8RO9lMCLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
